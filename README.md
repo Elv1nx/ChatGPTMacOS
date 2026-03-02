@@ -628,4 +628,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **最后更新**: 2026-03-03  
 **版本**: 1.0.0  
-**作者**: AI Assistant
+**作者**: ElvinX
